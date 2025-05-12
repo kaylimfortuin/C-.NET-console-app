@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/bin/Debug/net8.0/nestedwhileloop
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/bin/Debug/net8.0/nestedwhileloop.deps.json
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/bin/Debug/net8.0/nestedwhileloop.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/bin/Debug/net8.0/nestedwhileloop.dll
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/bin/Debug/net8.0/nestedwhileloop.pdb
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/obj/Debug/net8.0/nestedwhileloop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/obj/Debug/net8.0/nestedwhileloop.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/obj/Debug/net8.0/nestedwhileloop.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/obj/Debug/net8.0/nestedwhileloop.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/obj/Debug/net8.0/nestedwhileloop.dll
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/obj/Debug/net8.0/refint/nestedwhileloop.dll
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/obj/Debug/net8.0/nestedwhileloop.pdb
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/obj/Debug/net8.0/nestedwhileloop.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/whileloops/nestedwhileloop/obj/Debug/net8.0/ref/nestedwhileloop.dll

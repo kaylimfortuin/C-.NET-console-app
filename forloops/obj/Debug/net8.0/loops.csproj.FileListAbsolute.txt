@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Code/C#/iterations/loops/obj/Debug/net8.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/iterations/loops/obj/Debug/net8.0/loops.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/iterations/loops/obj/Debug/net8.0/loops.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/iterations/loops/obj/Debug/net8.0/loops.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/iterations/loops/bin/Debug/net8.0/loops
+/Users/kaylimfortuin/Code/C#/iterations/loops/bin/Debug/net8.0/loops.deps.json
+/Users/kaylimfortuin/Code/C#/iterations/loops/bin/Debug/net8.0/loops.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/iterations/loops/bin/Debug/net8.0/loops.dll
+/Users/kaylimfortuin/Code/C#/iterations/loops/bin/Debug/net8.0/loops.pdb
+/Users/kaylimfortuin/Code/C#/iterations/loops/obj/Debug/net8.0/loops.dll
+/Users/kaylimfortuin/Code/C#/iterations/loops/obj/Debug/net8.0/refint/loops.dll
+/Users/kaylimfortuin/Code/C#/iterations/loops/obj/Debug/net8.0/loops.pdb
+/Users/kaylimfortuin/Code/C#/iterations/loops/obj/Debug/net8.0/loops.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/iterations/loops/obj/Debug/net8.0/ref/loops.dll

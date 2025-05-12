@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/bin/Debug/net8.0/dowhile
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/bin/Debug/net8.0/dowhile.deps.json
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/bin/Debug/net8.0/dowhile.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/bin/Debug/net8.0/dowhile.dll
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/bin/Debug/net8.0/dowhile.pdb
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/obj/Debug/net8.0/dowhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/obj/Debug/net8.0/dowhile.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/obj/Debug/net8.0/dowhile.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/obj/Debug/net8.0/dowhile.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/obj/Debug/net8.0/dowhile.dll
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/obj/Debug/net8.0/refint/dowhile.dll
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/obj/Debug/net8.0/dowhile.pdb
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/obj/Debug/net8.0/dowhile.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/dowhileloop/dowhile/obj/Debug/net8.0/ref/dowhile.dll

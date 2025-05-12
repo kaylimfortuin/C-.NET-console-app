@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "libraraymanagment/1.0.0": {
+        "runtime": {
+          "libraraymanagment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "libraraymanagment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

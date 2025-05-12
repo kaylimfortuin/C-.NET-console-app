@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/bin/Debug/net8.0/validateinput
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/bin/Debug/net8.0/validateinput.deps.json
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/bin/Debug/net8.0/validateinput.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/bin/Debug/net8.0/validateinput.dll
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/bin/Debug/net8.0/validateinput.pdb
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/obj/Debug/net8.0/validateinput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/obj/Debug/net8.0/validateinput.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/obj/Debug/net8.0/validateinput.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/obj/Debug/net8.0/validateinput.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/obj/Debug/net8.0/validateinput.dll
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/obj/Debug/net8.0/refint/validateinput.dll
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/obj/Debug/net8.0/validateinput.pdb
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/obj/Debug/net8.0/validateinput.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/whileloops/validateinput/obj/Debug/net8.0/ref/validateinput.dll

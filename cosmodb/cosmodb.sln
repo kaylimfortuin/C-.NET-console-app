@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cosmodb", "cosmodb.csproj", "{1E4D40B3-9AD2-C293-AC2D-42CE7C5BC493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4D40B3-9AD2-C293-AC2D-42CE7C5BC493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4D40B3-9AD2-C293-AC2D-42CE7C5BC493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4D40B3-9AD2-C293-AC2D-42CE7C5BC493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4D40B3-9AD2-C293-AC2D-42CE7C5BC493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B346D06-1117-4A3F-9E78-CED2C0EA1AD3}
+	EndGlobalSection
+EndGlobal

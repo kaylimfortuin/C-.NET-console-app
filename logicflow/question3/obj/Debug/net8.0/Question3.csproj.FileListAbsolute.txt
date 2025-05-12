@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/bin/Debug/net8.0/Question3
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/bin/Debug/net8.0/Question3.deps.json
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/bin/Debug/net8.0/Question3.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/bin/Debug/net8.0/Question3.dll
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/bin/Debug/net8.0/Question3.pdb
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/obj/Debug/net8.0/Question3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/obj/Debug/net8.0/Question3.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/obj/Debug/net8.0/Question3.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/obj/Debug/net8.0/Question3.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/obj/Debug/net8.0/Question3.dll
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/obj/Debug/net8.0/refint/Question3.dll
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/obj/Debug/net8.0/Question3.pdb
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/obj/Debug/net8.0/Question3.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/logicflow/Question3/obj/Debug/net8.0/ref/Question3.dll

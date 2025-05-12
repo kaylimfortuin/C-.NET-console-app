@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/bin/Debug/net8.0/printpostivenumbers
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/bin/Debug/net8.0/printpostivenumbers.deps.json
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/bin/Debug/net8.0/printpostivenumbers.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/bin/Debug/net8.0/printpostivenumbers.dll
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/bin/Debug/net8.0/printpostivenumbers.pdb
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/obj/Debug/net8.0/printpostivenumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/obj/Debug/net8.0/printpostivenumbers.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/obj/Debug/net8.0/printpostivenumbers.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/obj/Debug/net8.0/printpostivenumbers.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/obj/Debug/net8.0/printpostivenumbers.dll
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/obj/Debug/net8.0/refint/printpostivenumbers.dll
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/obj/Debug/net8.0/printpostivenumbers.pdb
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/obj/Debug/net8.0/printpostivenumbers.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/whileloops/printpostivenumbers/obj/Debug/net8.0/ref/printpostivenumbers.dll

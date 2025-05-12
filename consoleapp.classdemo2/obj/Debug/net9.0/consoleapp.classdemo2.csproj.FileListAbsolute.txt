@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/bin/Debug/net9.0/consoleapp.classdemo2
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/bin/Debug/net9.0/consoleapp.classdemo2.deps.json
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/bin/Debug/net9.0/consoleapp.classdemo2.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/bin/Debug/net9.0/consoleapp.classdemo2.dll
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/bin/Debug/net9.0/consoleapp.classdemo2.pdb
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/obj/Debug/net9.0/consoleapp.classdemo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/obj/Debug/net9.0/consoleapp.classdemo2.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/obj/Debug/net9.0/consoleapp.classdemo2.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/obj/Debug/net9.0/consoleapp.classdemo2.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/obj/Debug/net9.0/consoleapp.classdemo2.dll
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/obj/Debug/net9.0/refint/consoleapp.classdemo2.dll
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/obj/Debug/net9.0/consoleapp.classdemo2.pdb
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/obj/Debug/net9.0/consoleapp.classdemo2.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classdemo2/obj/Debug/net9.0/ref/consoleapp.classdemo2.dll

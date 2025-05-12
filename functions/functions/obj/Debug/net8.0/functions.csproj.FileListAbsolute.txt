@@ -1,0 +1,5 @@
+/Users/kaylimfortuin/Code/C#/functions/functions/obj/Debug/net8.0/functions.csproj.AssemblyReference.cache
+/Users/kaylimfortuin/Code/C#/functions/functions/obj/Debug/net8.0/functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/functions/functions/obj/Debug/net8.0/functions.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/functions/functions/obj/Debug/net8.0/functions.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/functions/functions/obj/Debug/net8.0/functions.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Code/C#/C#operators/obj/Debug/net8.0/C#operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/C#operators/obj/Debug/net8.0/C#operators.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/C#operators/obj/Debug/net8.0/C#operators.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/C#operators/obj/Debug/net8.0/C#operators.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/C#operators/bin/Debug/net8.0/C#operators
+/Users/kaylimfortuin/Code/C#/C#operators/bin/Debug/net8.0/C#operators.deps.json
+/Users/kaylimfortuin/Code/C#/C#operators/bin/Debug/net8.0/C#operators.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/C#operators/bin/Debug/net8.0/C#operators.dll
+/Users/kaylimfortuin/Code/C#/C#operators/bin/Debug/net8.0/C#operators.pdb
+/Users/kaylimfortuin/Code/C#/C#operators/obj/Debug/net8.0/C#operators.dll
+/Users/kaylimfortuin/Code/C#/C#operators/obj/Debug/net8.0/refint/C#operators.dll
+/Users/kaylimfortuin/Code/C#/C#operators/obj/Debug/net8.0/C#operators.pdb
+/Users/kaylimfortuin/Code/C#/C#operators/obj/Debug/net8.0/C#operators.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/C#operators/obj/Debug/net8.0/ref/C#operators.dll

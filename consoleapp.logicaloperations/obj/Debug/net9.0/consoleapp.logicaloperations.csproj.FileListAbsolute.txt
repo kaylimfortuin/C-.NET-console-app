@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/obj/Debug/net9.0/consoleapp.logicaloperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/obj/Debug/net9.0/consoleapp.logicaloperations.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/obj/Debug/net9.0/consoleapp.logicaloperations.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/obj/Debug/net9.0/consoleapp.logicaloperations.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/bin/Debug/net9.0/consoleapp.logicaloperations
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/bin/Debug/net9.0/consoleapp.logicaloperations.deps.json
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/bin/Debug/net9.0/consoleapp.logicaloperations.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/bin/Debug/net9.0/consoleapp.logicaloperations.dll
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/bin/Debug/net9.0/consoleapp.logicaloperations.pdb
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/obj/Debug/net9.0/consoleapp.logicaloperations.dll
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/obj/Debug/net9.0/refint/consoleapp.logicaloperations.dll
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/obj/Debug/net9.0/consoleapp.logicaloperations.pdb
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/obj/Debug/net9.0/consoleapp.logicaloperations.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/console app/consoleapp.logicaloperations/obj/Debug/net9.0/ref/consoleapp.logicaloperations.dll

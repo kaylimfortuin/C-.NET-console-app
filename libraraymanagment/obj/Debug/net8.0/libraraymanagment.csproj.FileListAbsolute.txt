@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Code/C#/libraraymanagment/bin/Debug/net8.0/libraraymanagment
+/Users/kaylimfortuin/Code/C#/libraraymanagment/bin/Debug/net8.0/libraraymanagment.deps.json
+/Users/kaylimfortuin/Code/C#/libraraymanagment/bin/Debug/net8.0/libraraymanagment.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/libraraymanagment/bin/Debug/net8.0/libraraymanagment.dll
+/Users/kaylimfortuin/Code/C#/libraraymanagment/bin/Debug/net8.0/libraraymanagment.pdb
+/Users/kaylimfortuin/Code/C#/libraraymanagment/obj/Debug/net8.0/libraraymanagment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/libraraymanagment/obj/Debug/net8.0/libraraymanagment.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/libraraymanagment/obj/Debug/net8.0/libraraymanagment.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/libraraymanagment/obj/Debug/net8.0/libraraymanagment.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/libraraymanagment/obj/Debug/net8.0/libraraymanagment.dll
+/Users/kaylimfortuin/Code/C#/libraraymanagment/obj/Debug/net8.0/refint/libraraymanagment.dll
+/Users/kaylimfortuin/Code/C#/libraraymanagment/obj/Debug/net8.0/libraraymanagment.pdb
+/Users/kaylimfortuin/Code/C#/libraraymanagment/obj/Debug/net8.0/libraraymanagment.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/libraraymanagment/obj/Debug/net8.0/ref/libraraymanagment.dll

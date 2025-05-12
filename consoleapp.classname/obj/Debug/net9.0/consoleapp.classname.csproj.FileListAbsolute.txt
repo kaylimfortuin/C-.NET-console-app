@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/bin/Debug/net9.0/consoleapp.classname
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/bin/Debug/net9.0/consoleapp.classname.deps.json
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/bin/Debug/net9.0/consoleapp.classname.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/bin/Debug/net9.0/consoleapp.classname.dll
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/bin/Debug/net9.0/consoleapp.classname.pdb
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/obj/Debug/net9.0/consoleapp.classname.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/obj/Debug/net9.0/consoleapp.classname.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/obj/Debug/net9.0/consoleapp.classname.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/obj/Debug/net9.0/consoleapp.classname.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/obj/Debug/net9.0/consoleapp.classname.dll
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/obj/Debug/net9.0/refint/consoleapp.classname.dll
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/obj/Debug/net9.0/consoleapp.classname.pdb
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/obj/Debug/net9.0/consoleapp.classname.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/console app/consoleapp.classname/obj/Debug/net9.0/ref/consoleapp.classname.dll

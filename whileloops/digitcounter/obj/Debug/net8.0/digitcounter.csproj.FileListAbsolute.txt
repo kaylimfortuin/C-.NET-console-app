@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/bin/Debug/net8.0/digitcounter
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/bin/Debug/net8.0/digitcounter.deps.json
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/bin/Debug/net8.0/digitcounter.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/bin/Debug/net8.0/digitcounter.dll
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/bin/Debug/net8.0/digitcounter.pdb
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/obj/Debug/net8.0/digitcounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/obj/Debug/net8.0/digitcounter.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/obj/Debug/net8.0/digitcounter.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/obj/Debug/net8.0/digitcounter.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/obj/Debug/net8.0/digitcounter.dll
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/obj/Debug/net8.0/refint/digitcounter.dll
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/obj/Debug/net8.0/digitcounter.pdb
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/obj/Debug/net8.0/digitcounter.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/whileloops/digitcounter/obj/Debug/net8.0/ref/digitcounter.dll

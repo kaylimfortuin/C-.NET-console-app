@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Code/C#/gatepass/bin/Debug/net8.0/gatepass
+/Users/kaylimfortuin/Code/C#/gatepass/bin/Debug/net8.0/gatepass.deps.json
+/Users/kaylimfortuin/Code/C#/gatepass/bin/Debug/net8.0/gatepass.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/gatepass/bin/Debug/net8.0/gatepass.dll
+/Users/kaylimfortuin/Code/C#/gatepass/bin/Debug/net8.0/gatepass.pdb
+/Users/kaylimfortuin/Code/C#/gatepass/obj/Debug/net8.0/gatepass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/gatepass/obj/Debug/net8.0/gatepass.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/gatepass/obj/Debug/net8.0/gatepass.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/gatepass/obj/Debug/net8.0/gatepass.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/gatepass/obj/Debug/net8.0/gatepass.dll
+/Users/kaylimfortuin/Code/C#/gatepass/obj/Debug/net8.0/refint/gatepass.dll
+/Users/kaylimfortuin/Code/C#/gatepass/obj/Debug/net8.0/gatepass.pdb
+/Users/kaylimfortuin/Code/C#/gatepass/obj/Debug/net8.0/gatepass.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/gatepass/obj/Debug/net8.0/ref/gatepass.dll
