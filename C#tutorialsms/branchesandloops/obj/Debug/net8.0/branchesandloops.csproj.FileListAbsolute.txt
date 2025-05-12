@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Desktop/branchesandloops/bin/Debug/net8.0/branchesandloops
+/Users/kaylimfortuin/Desktop/branchesandloops/bin/Debug/net8.0/branchesandloops.deps.json
+/Users/kaylimfortuin/Desktop/branchesandloops/bin/Debug/net8.0/branchesandloops.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/branchesandloops/bin/Debug/net8.0/branchesandloops.dll
+/Users/kaylimfortuin/Desktop/branchesandloops/bin/Debug/net8.0/branchesandloops.pdb
+/Users/kaylimfortuin/Desktop/branchesandloops/obj/Debug/net8.0/branchesandloops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/branchesandloops/obj/Debug/net8.0/branchesandloops.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/branchesandloops/obj/Debug/net8.0/branchesandloops.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/branchesandloops/obj/Debug/net8.0/branchesandloops.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/branchesandloops/obj/Debug/net8.0/branchesandloops.dll
+/Users/kaylimfortuin/Desktop/branchesandloops/obj/Debug/net8.0/refint/branchesandloops.dll
+/Users/kaylimfortuin/Desktop/branchesandloops/obj/Debug/net8.0/branchesandloops.pdb
+/Users/kaylimfortuin/Desktop/branchesandloops/obj/Debug/net8.0/branchesandloops.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/branchesandloops/obj/Debug/net8.0/ref/branchesandloops.dll

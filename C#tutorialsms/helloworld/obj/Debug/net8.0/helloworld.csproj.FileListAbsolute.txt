@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Desktop/helloworld/bin/Debug/net8.0/helloworld
+/Users/kaylimfortuin/Desktop/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/Users/kaylimfortuin/Desktop/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/helloworld/bin/Debug/net8.0/helloworld.dll
+/Users/kaylimfortuin/Desktop/helloworld/bin/Debug/net8.0/helloworld.pdb
+/Users/kaylimfortuin/Desktop/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/helloworld/obj/Debug/net8.0/helloworld.dll
+/Users/kaylimfortuin/Desktop/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/Users/kaylimfortuin/Desktop/helloworld/obj/Debug/net8.0/helloworld.pdb
+/Users/kaylimfortuin/Desktop/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/helloworld/obj/Debug/net8.0/ref/helloworld.dll

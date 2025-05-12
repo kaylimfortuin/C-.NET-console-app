@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Desktop/languageintegratedquery/bin/Debug/net8.0/languageintegratedquery
+/Users/kaylimfortuin/Desktop/languageintegratedquery/bin/Debug/net8.0/languageintegratedquery.deps.json
+/Users/kaylimfortuin/Desktop/languageintegratedquery/bin/Debug/net8.0/languageintegratedquery.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/languageintegratedquery/bin/Debug/net8.0/languageintegratedquery.dll
+/Users/kaylimfortuin/Desktop/languageintegratedquery/bin/Debug/net8.0/languageintegratedquery.pdb
+/Users/kaylimfortuin/Desktop/languageintegratedquery/obj/Debug/net8.0/languageintegratedquery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/languageintegratedquery/obj/Debug/net8.0/languageintegratedquery.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/languageintegratedquery/obj/Debug/net8.0/languageintegratedquery.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/languageintegratedquery/obj/Debug/net8.0/languageintegratedquery.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/languageintegratedquery/obj/Debug/net8.0/languageintegratedquery.dll
+/Users/kaylimfortuin/Desktop/languageintegratedquery/obj/Debug/net8.0/refint/languageintegratedquery.dll
+/Users/kaylimfortuin/Desktop/languageintegratedquery/obj/Debug/net8.0/languageintegratedquery.pdb
+/Users/kaylimfortuin/Desktop/languageintegratedquery/obj/Debug/net8.0/languageintegratedquery.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/languageintegratedquery/obj/Debug/net8.0/ref/languageintegratedquery.dll

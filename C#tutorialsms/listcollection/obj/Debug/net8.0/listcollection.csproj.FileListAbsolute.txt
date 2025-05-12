@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Desktop/listcollection/bin/Debug/net8.0/listcollection
+/Users/kaylimfortuin/Desktop/listcollection/bin/Debug/net8.0/listcollection.deps.json
+/Users/kaylimfortuin/Desktop/listcollection/bin/Debug/net8.0/listcollection.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/listcollection/bin/Debug/net8.0/listcollection.dll
+/Users/kaylimfortuin/Desktop/listcollection/bin/Debug/net8.0/listcollection.pdb
+/Users/kaylimfortuin/Desktop/listcollection/obj/Debug/net8.0/listcollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/listcollection/obj/Debug/net8.0/listcollection.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/listcollection/obj/Debug/net8.0/listcollection.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/listcollection/obj/Debug/net8.0/listcollection.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/listcollection/obj/Debug/net8.0/listcollection.dll
+/Users/kaylimfortuin/Desktop/listcollection/obj/Debug/net8.0/refint/listcollection.dll
+/Users/kaylimfortuin/Desktop/listcollection/obj/Debug/net8.0/listcollection.pdb
+/Users/kaylimfortuin/Desktop/listcollection/obj/Debug/net8.0/listcollection.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/listcollection/obj/Debug/net8.0/ref/listcollection.dll

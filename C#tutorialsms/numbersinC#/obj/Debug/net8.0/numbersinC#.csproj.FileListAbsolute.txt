@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Desktop/numbersinC#/bin/Debug/net8.0/numbersinC#
+/Users/kaylimfortuin/Desktop/numbersinC#/bin/Debug/net8.0/numbersinC#.deps.json
+/Users/kaylimfortuin/Desktop/numbersinC#/bin/Debug/net8.0/numbersinC#.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/numbersinC#/bin/Debug/net8.0/numbersinC#.dll
+/Users/kaylimfortuin/Desktop/numbersinC#/bin/Debug/net8.0/numbersinC#.pdb
+/Users/kaylimfortuin/Desktop/numbersinC#/obj/Debug/net8.0/numbersinC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/numbersinC#/obj/Debug/net8.0/numbersinC#.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/numbersinC#/obj/Debug/net8.0/numbersinC#.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/numbersinC#/obj/Debug/net8.0/numbersinC#.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/numbersinC#/obj/Debug/net8.0/numbersinC#.dll
+/Users/kaylimfortuin/Desktop/numbersinC#/obj/Debug/net8.0/refint/numbersinC#.dll
+/Users/kaylimfortuin/Desktop/numbersinC#/obj/Debug/net8.0/numbersinC#.pdb
+/Users/kaylimfortuin/Desktop/numbersinC#/obj/Debug/net8.0/numbersinC#.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/numbersinC#/obj/Debug/net8.0/ref/numbersinC#.dll
