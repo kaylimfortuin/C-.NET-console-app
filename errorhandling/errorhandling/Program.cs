@@ -22,9 +22,9 @@ namespace ErrorHandling
                 z = x / y;
                 System.Console.WriteLine($"answer: {z}");
             }
-            catch (FormatException) //catch and handle exceptions when they occur
+            catch (FormatException) //catch and handle exceptions when they occur this ine handles when the user enters somthing thats not a num
             {
-                System.Console.WriteLine("Enter ONLY a number");
+                System.Console.WriteLine("Enter ONLY a whole number");
             }
             catch (DivideByZeroException) //the divide by 0 error only occurs when dividing int not doubles
             {
