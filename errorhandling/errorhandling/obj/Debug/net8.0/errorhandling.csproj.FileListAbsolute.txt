@@ -1,0 +1,15 @@
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/bin/Debug/net8.0/errorhandling
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/bin/Debug/net8.0/errorhandling.deps.json
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/bin/Debug/net8.0/errorhandling.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/bin/Debug/net8.0/errorhandling.dll
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/bin/Debug/net8.0/errorhandling.pdb
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/obj/Debug/net8.0/errorhandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/obj/Debug/net8.0/errorhandling.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/obj/Debug/net8.0/errorhandling.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/obj/Debug/net8.0/errorhandling.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/obj/Debug/net8.0/errorhandling.sourcelink.json
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/obj/Debug/net8.0/errorhandling.dll
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/obj/Debug/net8.0/refint/errorhandling.dll
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/obj/Debug/net8.0/errorhandling.pdb
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/obj/Debug/net8.0/errorhandling.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/errorhandling/errorhandling/obj/Debug/net8.0/ref/errorhandling.dll

@@ -12,3 +12,4 @@
 /Users/kaylimfortuin/Code/C#/dowhileloop/question1/obj/Debug/net8.0/question1.pdb
 /Users/kaylimfortuin/Code/C#/dowhileloop/question1/obj/Debug/net8.0/question1.genruntimeconfig.cache
 /Users/kaylimfortuin/Code/C#/dowhileloop/question1/obj/Debug/net8.0/ref/question1.dll
+/Users/kaylimfortuin/Code/C#/dowhileloop/question1/obj/Debug/net8.0/question1.sourcelink.json
