@@ -39,7 +39,7 @@ namespace ErrorHandling
             // Finally is optional and it runs regardless of whether the catch block is triggered or not
             finally //always execute
             {
-                System.Console.WriteLine("Goodbye!");
+                System.Console.WriteLine("Goodbye! \n");
             }
         }
 
