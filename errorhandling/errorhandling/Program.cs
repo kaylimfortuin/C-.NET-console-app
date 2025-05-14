@@ -22,13 +22,13 @@ namespace ErrorHandling
                 z = x / y;
                 System.Console.WriteLine($"answer: {z}");
             }
-            catch (FormatException) //catch and handle exceptions when they occur this ine handles when the user enters somthing thats not a num
+            catch (FormatException) //catch and handle exceptions when they occur this ine handles when the user enters something thats not a num
             {
                 System.Console.WriteLine("Enter ONLY a whole number");
             }
             catch (DivideByZeroException) //the divide by 0 error only occurs when dividing int not doubles
             {
-                System.Console.WriteLine("A number cannot be divides by zero, please enter another number");
+                System.Console.WriteLine("A number CANNOT be divides by ZERO, please enter another number");
             }
             //you can add a catch block to catch everything but its difficult too let the user know what went wrong spo its not best practice
             // catch (Exception)
