@@ -26,6 +26,7 @@ namespace ErrorHandling
             {
                 System.Console.WriteLine("Enter ONLY a whole number");
             }
+            //you can add multiple catch
             catch (DivideByZeroException) //the divide by 0 error only occurs when dividing int not doubles
             {
                 System.Console.WriteLine("A number CANNOT be divides by ZERO, please enter another number");
