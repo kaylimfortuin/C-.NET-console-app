@@ -6,7 +6,14 @@ namespace Question1
     {
         static void Main(string[] args)
         {
-            List<object> mixedList = new List<object>{15, -4, 0, 200, "Invalid", 9.5}; //creats a new list
+            List<object> mixedList = new List<object>(); //creates a new list
+
+            mixedList.Add(15); //adds items to a list
+            mixedList.Add(-4);
+            mixedList.Add(0);
+            mixedList.Add(200);
+            mixedList.Add("Invalid");
+            mixedList.Add(9.5);
 
             //the foreach iterates through the list
             foreach (var item in mixedList)
