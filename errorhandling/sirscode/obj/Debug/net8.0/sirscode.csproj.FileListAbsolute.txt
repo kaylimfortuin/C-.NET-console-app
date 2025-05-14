@@ -1,0 +1,15 @@
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/bin/Debug/net8.0/sirscode
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/bin/Debug/net8.0/sirscode.deps.json
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/bin/Debug/net8.0/sirscode.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/bin/Debug/net8.0/sirscode.dll
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/bin/Debug/net8.0/sirscode.pdb
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/obj/Debug/net8.0/sirscode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/obj/Debug/net8.0/sirscode.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/obj/Debug/net8.0/sirscode.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/obj/Debug/net8.0/sirscode.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/obj/Debug/net8.0/sirscode.sourcelink.json
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/obj/Debug/net8.0/sirscode.dll
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/obj/Debug/net8.0/refint/sirscode.dll
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/obj/Debug/net8.0/sirscode.pdb
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/obj/Debug/net8.0/sirscode.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/errorhandling/sirscode/obj/Debug/net8.0/ref/sirscode.dll

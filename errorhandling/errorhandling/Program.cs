@@ -31,11 +31,14 @@ namespace ErrorHandling
             {
                 System.Console.WriteLine("A number CANNOT be divides by ZERO, please enter another number");
             }
+            
             //you can add a catch block to catch everything but its difficult too let the user know what went wrong spo its not best practice
-            // catch (Exception)
-            // {
-            //     System.Console.WriteLine("something went wrong");
-            // }
+            /*
+            catch (Exception)
+            {
+                System.Console.WriteLine("something went wrong");
+            }
+            */
 
             // Finally is optional and it runs regardless of whether the catch block is triggered or not
             finally //always execute
