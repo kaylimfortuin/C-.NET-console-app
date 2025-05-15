@@ -57,11 +57,11 @@ namespace Question1
                 //type conversion failure
                 catch (InvalidCastException)
                 {
-                    System.Console.WriteLine("Please enter a number");
+                    System.Console.WriteLine("Dont enter a letter");
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
-                    System.Console.WriteLine($"Unexpeted error {ex.Message}");
+                    System.Console.WriteLine("Unexpeted error");
                 }
             }
         }
