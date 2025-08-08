@@ -1,0 +1,15 @@
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/bin/Debug/net8.0/setsusingC#
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/bin/Debug/net8.0/setsusingC#.deps.json
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/bin/Debug/net8.0/setsusingC#.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/bin/Debug/net8.0/setsusingC#.dll
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/bin/Debug/net8.0/setsusingC#.pdb
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/obj/Debug/net8.0/setsusingC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/obj/Debug/net8.0/setsusingC#.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/obj/Debug/net8.0/setsusingC#.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/obj/Debug/net8.0/setsusingC#.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/obj/Debug/net8.0/setsusingC#.sourcelink.json
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/obj/Debug/net8.0/setsusingC#.dll
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/obj/Debug/net8.0/refint/setsusingC#.dll
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/obj/Debug/net8.0/setsusingC#.pdb
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/obj/Debug/net8.0/setsusingC#.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/setsusingC#/setsusingC#/obj/Debug/net8.0/ref/setsusingC#.dll
