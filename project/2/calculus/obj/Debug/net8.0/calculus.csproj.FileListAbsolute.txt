@@ -1,0 +1,14 @@
+/Users/kaylimfortuin/Desktop/project/2/calculus/bin/Debug/net8.0/calculus
+/Users/kaylimfortuin/Desktop/project/2/calculus/bin/Debug/net8.0/calculus.deps.json
+/Users/kaylimfortuin/Desktop/project/2/calculus/bin/Debug/net8.0/calculus.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/project/2/calculus/bin/Debug/net8.0/calculus.dll
+/Users/kaylimfortuin/Desktop/project/2/calculus/bin/Debug/net8.0/calculus.pdb
+/Users/kaylimfortuin/Desktop/project/2/calculus/obj/Debug/net8.0/calculus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/project/2/calculus/obj/Debug/net8.0/calculus.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/project/2/calculus/obj/Debug/net8.0/calculus.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/project/2/calculus/obj/Debug/net8.0/calculus.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/project/2/calculus/obj/Debug/net8.0/calculus.dll
+/Users/kaylimfortuin/Desktop/project/2/calculus/obj/Debug/net8.0/refint/calculus.dll
+/Users/kaylimfortuin/Desktop/project/2/calculus/obj/Debug/net8.0/calculus.pdb
+/Users/kaylimfortuin/Desktop/project/2/calculus/obj/Debug/net8.0/calculus.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/project/2/calculus/obj/Debug/net8.0/ref/calculus.dll

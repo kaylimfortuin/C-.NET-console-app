@@ -1,0 +1,15 @@
+/Users/kaylimfortuin/Code/C#/project/probability/obj/Debug/net8.0/probability.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/project/probability/obj/Debug/net8.0/probability.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/project/probability/obj/Debug/net8.0/probability.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/project/probability/obj/Debug/net8.0/probability.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/project/probability/obj/Debug/net8.0/probability.sourcelink.json
+/Users/kaylimfortuin/Code/C#/project/probability/bin/Debug/net8.0/probability
+/Users/kaylimfortuin/Code/C#/project/probability/bin/Debug/net8.0/probability.deps.json
+/Users/kaylimfortuin/Code/C#/project/probability/bin/Debug/net8.0/probability.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/project/probability/bin/Debug/net8.0/probability.dll
+/Users/kaylimfortuin/Code/C#/project/probability/bin/Debug/net8.0/probability.pdb
+/Users/kaylimfortuin/Code/C#/project/probability/obj/Debug/net8.0/probability.dll
+/Users/kaylimfortuin/Code/C#/project/probability/obj/Debug/net8.0/refint/probability.dll
+/Users/kaylimfortuin/Code/C#/project/probability/obj/Debug/net8.0/probability.pdb
+/Users/kaylimfortuin/Code/C#/project/probability/obj/Debug/net8.0/probability.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/project/probability/obj/Debug/net8.0/ref/probability.dll

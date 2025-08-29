@@ -1,0 +1,15 @@
+/Users/kaylimfortuin/Code/C#/project/exponential/bin/Debug/net8.0/exponential
+/Users/kaylimfortuin/Code/C#/project/exponential/bin/Debug/net8.0/exponential.deps.json
+/Users/kaylimfortuin/Code/C#/project/exponential/bin/Debug/net8.0/exponential.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/project/exponential/bin/Debug/net8.0/exponential.dll
+/Users/kaylimfortuin/Code/C#/project/exponential/bin/Debug/net8.0/exponential.pdb
+/Users/kaylimfortuin/Code/C#/project/exponential/obj/Debug/net8.0/exponential.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/project/exponential/obj/Debug/net8.0/exponential.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/project/exponential/obj/Debug/net8.0/exponential.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/project/exponential/obj/Debug/net8.0/exponential.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/project/exponential/obj/Debug/net8.0/exponential.sourcelink.json
+/Users/kaylimfortuin/Code/C#/project/exponential/obj/Debug/net8.0/exponential.dll
+/Users/kaylimfortuin/Code/C#/project/exponential/obj/Debug/net8.0/refint/exponential.dll
+/Users/kaylimfortuin/Code/C#/project/exponential/obj/Debug/net8.0/exponential.pdb
+/Users/kaylimfortuin/Code/C#/project/exponential/obj/Debug/net8.0/exponential.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/project/exponential/obj/Debug/net8.0/ref/exponential.dll
