@@ -1,0 +1,15 @@
+/Users/kaylimfortuin/Code/C#/project/week5/bin/Release/net8.0/week5
+/Users/kaylimfortuin/Code/C#/project/week5/bin/Release/net8.0/week5.deps.json
+/Users/kaylimfortuin/Code/C#/project/week5/bin/Release/net8.0/week5.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/project/week5/bin/Release/net8.0/week5.dll
+/Users/kaylimfortuin/Code/C#/project/week5/bin/Release/net8.0/week5.pdb
+/Users/kaylimfortuin/Code/C#/project/week5/obj/Release/net8.0/week5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Code/C#/project/week5/obj/Release/net8.0/week5.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Code/C#/project/week5/obj/Release/net8.0/week5.AssemblyInfo.cs
+/Users/kaylimfortuin/Code/C#/project/week5/obj/Release/net8.0/week5.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Code/C#/project/week5/obj/Release/net8.0/week5.sourcelink.json
+/Users/kaylimfortuin/Code/C#/project/week5/obj/Release/net8.0/week5.dll
+/Users/kaylimfortuin/Code/C#/project/week5/obj/Release/net8.0/refint/week5.dll
+/Users/kaylimfortuin/Code/C#/project/week5/obj/Release/net8.0/week5.pdb
+/Users/kaylimfortuin/Code/C#/project/week5/obj/Release/net8.0/week5.genruntimeconfig.cache
+/Users/kaylimfortuin/Code/C#/project/week5/obj/Release/net8.0/ref/week5.dll

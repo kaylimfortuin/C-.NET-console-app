@@ -1,0 +1,5 @@
+/Users/kaylimfortuin/Code/C#/project/probability/bin/Release/net8.0/publish/probability
+/Users/kaylimfortuin/Code/C#/project/probability/bin/Release/net8.0/publish/probability.dll
+/Users/kaylimfortuin/Code/C#/project/probability/bin/Release/net8.0/publish/probability.deps.json
+/Users/kaylimfortuin/Code/C#/project/probability/bin/Release/net8.0/publish/probability.runtimeconfig.json
+/Users/kaylimfortuin/Code/C#/project/probability/bin/Release/net8.0/publish/probability.pdb
