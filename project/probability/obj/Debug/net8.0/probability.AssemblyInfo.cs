@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("probability")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85c3db23e3541211fb7dda89551e02e6cb516e64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c3725fa085046bf88f6b10153741c00c2e1fd99")]
 [assembly: System.Reflection.AssemblyProductAttribute("probability")]
 [assembly: System.Reflection.AssemblyTitleAttribute("probability")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

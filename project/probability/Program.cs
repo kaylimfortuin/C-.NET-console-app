@@ -7,6 +7,7 @@ namespace Probability
         static void Main(string[] args)
         {
 
+            Console.Clear();
             Console.WriteLine("==============================");
             Console.WriteLine(" Probability Union Calculator ");
             Console.WriteLine("==============================");
